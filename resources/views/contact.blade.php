@@ -21,9 +21,9 @@
                                 <!-- https://startbootstrap.com/solution/contact-forms-->
                                 <!-- to get an API token!-->
                                 @isset($data)
-                                <strong>Name :</strong> {{ $data->name ?? '' }}
-                                <strong>Email :</strong> {{ $data->email ?? '' }}
-                                <strong>Phone :</strong> {{ $data->phone ?? '' }}
+                                <strong>Name :</strong> {{ $data->name ?? '' }}<br>
+                                <strong>Email :</strong> {{ $data->email ?? '' }}<br>
+                                <strong>Phone :</strong> {{ $data->phone ?? '' }}<br>
                                 <strong>Message :</strong> {{ $data->message ?? '' }}
                                 
                                 @else

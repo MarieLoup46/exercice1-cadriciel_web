@@ -23,13 +23,6 @@ class exercice1Controller extends Controller
     }
 
     public function contactForm(Request $request) {
-        //return $request;  // retourne l'objet
-
-        //$page = 'page Laravel';
-
-        // data = un objet ---- page = un string
-        //return view('contact-post', ['data' => $request, 'page' => $page]);
-
         return view('contact', ['data' => $request]);
     }
 }
