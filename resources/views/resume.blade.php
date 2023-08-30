@@ -4,7 +4,7 @@
         <!-- Page Content-->
             <div class="container px-5 my-5">
                 <div class="text-center mb-5">
-                    <h1 class="display-5 fw-bolder mb-0"><span class="text-gradient d-inline">Resume</span></h1>
+                    <h1 class="display-5 fw-bolder mb-0"><span class="text-gradient d-inline">My Resume</span></h1>
                 </div>
                 <div class="row gx-5 justify-content-center">
                     <div class="col-lg-11 col-xl-9 col-xxl-8">
@@ -25,10 +25,10 @@
                                     <div class="row align-items-center gx-5">
                                         <div class="col text-center text-lg-start mb-4 mb-lg-0">
                                             <div class="bg-light p-4 rounded-4">
-                                                <div class="text-primary fw-bolder mb-2">2019 - Present</div>
+                                                <div class="text-primary fw-bolder mb-2">2022 - Present</div>
                                                 <div class="small fw-bolder">Web Developer</div>
-                                                <div class="small text-muted">Stark Industries</div>
-                                                <div class="small text-muted">Los Angeles, CA</div>
+                                                <div class="small text-muted">Hydro Québec</div>
+                                                <div class="small text-muted">Montréal, QC</div>
                                             </div>
                                         </div>
                                         <div class="col-lg-8"><div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga.</div></div>
@@ -41,10 +41,10 @@
                                     <div class="row align-items-center gx-5">
                                         <div class="col text-center text-lg-start mb-4 mb-lg-0">
                                             <div class="bg-light p-4 rounded-4">
-                                                <div class="text-primary fw-bolder mb-2">2017 - 2019</div>
-                                                <div class="small fw-bolder">SEM Specialist</div>
-                                                <div class="small text-muted">Wayne Enterprises</div>
-                                                <div class="small text-muted">Gotham City, NY</div>
+                                                <div class="text-primary fw-bolder mb-2">2017 - 2022</div>
+                                                <div class="small fw-bolder">Web Designer</div>
+                                                <div class="small text-muted">Vidéotron</div>
+                                                <div class="small text-muted">Montréal, QC</div>
                                             </div>
                                         </div>
                                         <div class="col-lg-8"><div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga.</div></div>
@@ -63,12 +63,12 @@
                                             <div class="bg-light p-4 rounded-4">
                                                 <div class="text-secondary fw-bolder mb-2">2015 - 2017</div>
                                                 <div class="mb-2">
-                                                    <div class="small fw-bolder">Barnett College</div>
-                                                    <div class="small text-muted">Fairfield, NY</div>
+                                                    <div class="small fw-bolder">UQAM</div>
+                                                    <div class="small text-muted">Montréal, QC</div>
                                                 </div>
                                                 <div class="fst-italic">
-                                                    <div class="small text-muted">Master's</div>
-                                                    <div class="small text-muted">Web Development</div>
+                                                    <div class="small text-muted">Baccalaureate</div>
+                                                    <div class="small text-muted">Computer Science</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -84,12 +84,12 @@
                                             <div class="bg-light p-4 rounded-4">
                                                 <div class="text-secondary fw-bolder mb-2">2011 - 2015</div>
                                                 <div class="mb-2">
-                                                    <div class="small fw-bolder">ULA</div>
-                                                    <div class="small text-muted">Los Angeles, CA</div>
+                                                    <div class="small fw-bolder">Collège de Maisonneuve</div>
+                                                    <div class="small text-muted">Montréal, QC</div>
                                                 </div>
                                                 <div class="fst-italic">
-                                                    <div class="small text-muted">Undergraduate</div>
-                                                    <div class="small text-muted">Computer Science</div>
+                                                    <div class="small text-muted">D.E.C</div>
+                                                    <div class="small text-muted">Human science</div>
                                                 </div>
                                             </div>
                                         </div>
